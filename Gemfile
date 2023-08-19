@@ -12,7 +12,7 @@ gem 'milia'
 gem 'jquery-rails'
 gem 'jquery-ui-rails'
 # Use Puma as the app server
-gem 'puma', '~> 4.3'
+gem 'puma', '~> 5.6'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 gem 'sassc-rails', '>= 2.1.0'
